@@ -1,0 +1,25 @@
+body{
+    background-color: #f9f9f9;
+    font-family: default;
+}
+table{
+    border-collapse: collapse;
+    margin:auto;
+    width:80%;
+}
+th,thead,tr{
+    background-color: #4caf50;
+    color: white;
+    padding:10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+td:hover{
+    background-color:darkgreen;
+    border: 1px solid #ddd;
+    /* padding: 30px; */
+}
+caption {
+  font-weight: bold;
+  margin-bottom: 12px;
+}
